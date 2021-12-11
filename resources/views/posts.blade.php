@@ -8,6 +8,6 @@
     <title>Study Lara - Blog</title>
 </head>
 <body>
-    <h1>Halaman Blog</h1>
+    <h1>Halaman About</h1>
 </body>
 </html>
